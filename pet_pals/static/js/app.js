@@ -33,3 +33,4 @@ function buildPlot() {
 }
 
 buildPlot();
+console.log("test")
